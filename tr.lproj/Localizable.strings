@@ -1,0 +1,478 @@
+/* Localizable.strings */
+
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, Merhaba";
+"RXTikTok Settings" = "RXTikTok Ayarları";
+"Welcome" = "Hoş Geldin";
+"Tap to Join the Telegram" = "Telegram'a Katılmak İçin Dokun";
+
+// MARK: - Global Actions
+"Yes" = "Evet";
+"No" = "Hayır";
+"ON" = "AÇIK";
+"OFF" = "KAPALI";
+"Cancel" = "İptal";
+"Confirm" = "Onayla";
+"Actions" = "Aksiyonlar";
+"Default" = "Varsayılan";
+"Modern" = "Modern";
+"Compact" = "Kompakt";
+"Backgrounding ✌️" = "Arka Plana Alma ✌️";
+"Are you sure?" = "Emin misin?";
+
+// MARK: - Navigation
+"Feed" = "Akış";
+"Profile" = "Profil";
+"Other" = "Diğer";
+"Region" = "Bölge";
+"Developer" = "Geliştirici";
+"Design Options" = "Dizayn Seçenekleri";
+"Other Settings" = "Diğer Ayarlar";
+"Auto Clear History" = "Otomatik Geçmiş Temizleme";
+"Enable Embeded Links" = "Gömülü Linkleri Etkinleştir";
+"Language 🌎" = "Dil 🌎";
+"Show All Settings Tabs" = "Tüm Ayar Sekmelerini Göster";
+"Show Video Upload Timestamp" = "Video Yükleme Zaman Damgasını Göster";
+"Remove Pendant View" = "Pendant Görünümünü Kaldır";
+"Hide Commission Posts" = "Komisyon Gönderilerini Gizle";
+"Hide dangerous-action Warning" = "Tehlikeli Aksiyon Uyarılarını Gizle";
+
+// MARK: - Download Features
+"Downloads Menu" = "İndirmeler Menüsü";
+"Download Video" = "Video İndir";
+"Download HD Video" = "HD Video İndir";
+"Download Music" = "Müzik İndir";
+"Download Photo" = "Fotoğraf İndir";
+"Download All Photos" = "Tüm Fotoğrafları İndir";
+"Download Photos Menu" = "Fotoğrafları İndir Menüsü";
+"Downloading" = "İndiriliyor";
+"Download Button" = "İndir Düğmesi";
+
+// MARK: - Copy Features
+"Copy Menu" = "Kopyala Menüsü";
+"Copy Music Link" = "Müzik Linkini Kopyala";
+"Copy Description" = "Açıklama Kopyala";
+"Post Info" = "Gönderi Bilgisi";
+"Copy Video link" = "Video Linkini Kopyala";
+"Copy bio" = "Biyo Kopyala";
+"Music Link Copied" = "Müzik Linkini Kopyalandı";
+"Video Link Copied" = "Video Linkini Kopyalandı";
+"Description Link Copied" = "Açıklama Kopyalandı";
+"Stats Menu" = "İstatistik Menüsü";
+"Video Info" = "Video Bilgisi";
+
+// MARK: - Confirm Settings
+"Confirm Settings" = "Onay Ayarları";
+"Confirmation Settings" = "Onaylama Ayarları";
+"Like Confirmation" = "Like Onayı";
+"Like Comment Confirmation" = "Yorum Likelama Onayı";
+"Dislike Comment Confirmation" = "Yorum Dislike Onayı";
+"Follow Confirmation" = "Takip Onayı";
+
+// MARK: - Feed Settings
+"Feed Settings" = "Akış Ayarları";
+"Hide Ads" = "Reklamları Gizle";
+"Share Sheet" = "Paylaş Sayfası";
+"Remove Watermark" = "Su İşaretini Kaldır";
+"Show/Hide UI Button" = "UI Düğmesini Göster/Gizle";
+"Stop Playback" = "Oynatmayı Durdur";
+"Auto Play Next Video" = "Sonraki Videoyu Otomatik Oynat";
+"Show Progress Bar" = "İlerleme Çubuğunu Göster";
+"Transparent Comments" = "Şeffaf Yorumlar";
+"Show Usernames" = "Kullanıcı Adlarını Göster";
+"Disable Sensitive Content" = "Hassas İçeriği Devre Dışı Bırak";
+"Disable Warnings" = "Uyarıları Devre Dışı Bırak";
+"Disable Live Streaming" = "Canlı Yayını Devre Dışı Bırak";
+"Skip Recommendations" = "Önerileri Atla";
+"Upload Region" = "Yükleme Bölgesi";
+"Hide Top Feed items" = "Üst Akış Öğelerini Gizle";
+"Anonymous Seen" = "Anonim Görüldü";
+"Hide Play/Pause Button" = "Oynat/Duraklat Düğmesini Gizle";
+
+// MARK: - Profile Settings
+"Profile Settings" = "Profil Ayarları";
+"Profile Save" = "Profil Kaydet";
+"Profile Copy" = "Profil Kopyala";
+"Video Like Count" = "Video Like Sayısı";
+"Video Upload Date" = "Video Yükleme Tarihi";
+"User Post Count" = "Kullanıcı Gönderi Sayısı";
+"Followers" = "Takipçiler";
+"Following" = "Takip Edilenler";
+"Fake Verified" = "Sahte Doğrulanmış";
+"Enable Fake Changes" = "Sahte Değişiklikleri Etkinleştir";
+"Extended Comments" = "Genişletilmiş Yorumlar";
+"Upload HD" = "HD Yükle";
+"App Lock" = "Aplikasyon Kilidi";
+"Enable Flex" = "Flex Etkinleştir";
+"Enable Oled Keyboard" = "OLED Klavye Etkinleştir";
+"Post Stats" = "Gönderi İstatistikleri";
+"Enable Text To Reposts" = "Yeniden Gönderilere Metin Etkinleştir";
+"Disable Survey Popups" = "Anket Pencerelerini Devre Dışı Bırak";
+
+// MARK: - Comment Settings
+"Comment Settings" = "Yorum Ayarları";
+"Comment Design" = "Yorum Dizaynı";
+"Select Design" = "Dizayn Seç";
+"Disable Comment Tooltip" = "Yorum İpucunu Devre Dışı Bırak";
+"Add Comment as Post" = "Yorumu Gönderi Olarak Ekle";
+"Add Comment as Story" = "Yorumu Story Olarak Ekle";
+"Mass Unfold Comment Replies" = "Toplu Yorum Yanıtlarını Aç";
+"Auto Unfold Comment Texts" = "Yorum Metinlerini Otomatik Aç";
+"Multi Emoji Comment Bar" = "Çoklu Emoji Yorum Çubuğu";
+"Hide Emoji-Bar" = "Emoji Çubuğunu Gizle";
+"Add Translation Button" = "Çeviri Düğmesi Ekle";
+"Comment Cell Redesign" = "Yorum Hücresi Yeniden Dizayn et";
+"Enable Comment Photos" = "Yorum Fotoğraflarını Etkinleştir";
+"Enable Comment Stickers" = "Yorum Etiketlerini Etkinleştir";
+"Enable Comment Flags" = "Yorum Bayraklarını Etkinleştir";
+"Enable Copy Without Username" = "Kullanıcı Adı Olmadan Kopyalamayı Etkinleştir";
+"Configure Advanced Comment Settings" = "Gelişmiş Yorum Ayarlarını Yapılandır";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "Sekme Çubuğu Ayarları";
+"Tab Bar Configurations" = "Sekme Çubuğu Konfigürasyonu";
+"Hide Plus Button" = "Artı Düğmesini Gizle";
+"Hide Friends Badge" = "Arkadaş Rozetini Gizle";
+"Hide Inbox Badge" = "Gelen Kutusu Rozetini Gizle";
+"Changes will take effect after restarting the app" = "Değişiklikler aplikasyonu yeniden başlattıktan sonra etkili olacak";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Canlı Düğme Ayarları";
+"Live Button Function" = "Canlı Düğme İşlevi";
+"Live Button Actions" = "Canlı Düğme Aksiyonları";
+"Live Actions" = "Canlı Aksiyonlar";
+"Playback Speed" = "Oynatma Hızı";
+"Select Action" = "Aksiyon Seç";
+"Change the behavior of the Live button" = "Canlı düğmenin davranışını değiştir";
+"Selected Action" = "Seçilen Aksiyon";
+"Live Button Function Disabled" = "Canlı Düğme İşlevi Devre Dışı";
+"Please enable Live Button Function first" = "Lütfen önce Canlı Düğme İşlevini etkinleştir";
+"Change Action of Live Button" = "Canlı Düğme Aksiyonunu Değiştir";
+"Enable Live Button Function" = "Canlı Düğme İşlevini Etkinleştir";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Chat Ayarları";
+"Enable Voice Messages" = "Sesli Mesajları Etkinleştir";
+"Enable Streaks" = "Serileri Etkinleştir";
+"Hide Streak Pet" = "Seri Evcil Hayvanını Gizle";
+"Disable Typing Indicator" = "Yazma Göstergesini Devre Dışı Bırak";
+"Enable Pin Chat" = "Chat Sabitlemeyi Etkinleştir";
+"Bypass Media Limit" = "Medya Limitini Atla";
+"Disable AI-Generated Replies" = "AI Üretilmiş Yanıtları Devre Dışı Bırak";
+"Enable Small Emoji" = "Küçük Emoji Etkinleştir";
+"Anonymous Seen" = "Anonim Görüldü";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Oynatma Hızını Etkinleştir";
+"Selected Speed" = "Seçilen Hız";
+"Playback Speed Settings" = "Oynatma Hızı Ayarları";
+"Enable Persistent Playback Speed." = "Kalıcı Oynatma Hızını Etkinleştir.";
+"Select Speed" = "Hız Seç";
+"Control video playback speed" = "Video oynatma hızını kontrol et";
+"Playback Speed Disabled" = "Oynatma Hızı Devre Dışı";
+"Please enable Playback Speed first" = "Lütfen önce Oynatma Hızını etkinleştir";
+
+// MARK: - Region Settings
+"Region Settings" = "Bölge Ayarları";
+"Enable region changing to access content from different regions" = "Farklı bölgelerden içeriğe erişmek için bölge değiştirmeyi etkinleştir";
+"Enable Region Changing" = "Bölge Değiştirmeyi Etkinleştir";
+"Enable Region Changing Functionality" = "Bölge Değiştirme İşlevini Etkinleştir";
+"Selected Region" = "Seçilen Bölge";
+"Region Changing Disabled" = "Bölge Değiştirme Devre Dışı";
+"Please enable region changing first" = "Lütfen önce bölge değiştirmeyi etkinleştir";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "FEATURE_ENABLE_COMMENT_FLAGS";
+"FEATURE_COPY_WITHOUT_USERNAME" = "FEATURE_COPY_WITHOUT_USERNAME";
+"FEATURE_HIDE_ADS" = "Akıştan reklamları gizler";
+"FEATURE_DOWNLOAD_BUTTON" = "Gönderiler ve storyler için indir düğmesini etkinleştirir";
+"FEATURE_SHARE_SHEET" = "Medya indirildikten sonra paylaş sayfasını açar";
+"FEATURE_REMOVE_WATERMARK" = "İndirilen medyadan su işaretini kaldırır (animasyonlu TikTok logosu ve kullanıcı adı)";
+"FEATURE_UI_BUTTON" = "UI düğmesini gösterir veya gizler";
+"FEATURE_STOP_PLAYBACK" = "Video bittiğinde oynatmayı durdurur";
+"FEATURE_AUTO_PLAY" = "Otomatik video kaydırmayı etkinleştirir";
+"FEATURE_PROGRESS_BAR" = "Her videonun altında süre çubuğunu gösterir";
+"FEATURE_TRANSPARENT_COMMENTS" = "Yorumlar bölümünü şeffaf yapar";
+"FEATURE_DISABLE_SURVEY" = "Akışta rahatsız edici anket sorularını devre dışı bırakır";
+"FEATURE_HIDE_PLAY_PAUSE" = "Akışta Oynat/Duraklat görünümünü gizler";
+"FEATURE_SHOW_USERNAMES" = "Takma adları etiketlerle değiştirir";
+"FEATURE_DISABLE_SENSITIVE" = "Uygunsuz içerik uyarısını gizler";
+"FEATURE_ADD_TRANSLATION" = "Her yoruma çeviri düğmesi ekler";
+"FEATURE_DISABLE_WARNINGS" = "TikTok uyarılarını gizler";
+"FEATURE_DISABLE_LIVE" = "Akışta canlı yayınları gizler";
+"FEATURE_SKIP_RECOMMENDED" = "Arkadaş önerilerini vb. kaldırır";
+"FEATURE_UPLOAD_REGION" = "Kullanıcı adının yanında yükleme bölge bayrağını gösterir";
+"FEATURE_HIDE_TOP_ITEMS" = "Arama düğmesini, CANLI ve diğerlerini gizler (Sizin İçin, Takip Edilenler, Mağaza vb...)";
+"FEATURE_ANONYMOUS_SEEN" = "Chatlere diğer kişi bilmeden bak";
+"FEATURE_SHOW_ALL_TABS" = "Tüm gizli ayar sekmelerini göster [Beta!]";
+"FEATURE_PROFILE_SAVE" = "Profil bilgisini panoya kaydeder";
+"FEATURE_EMBED_LINKS" = "Linkleri kopyalarken gömülü linkleri etkinleştir";
+"FEATURE_PROFILE_COPY" = "Profil bilgisini kopyalar";
+"FEATURE_USER_POST_COUNT" = "Yüklenen video sayısını gösterir";
+"FEATURE_LIKE_COUNT" = "Mesajlarda like sayısını gösterir";
+"FEATURE_UPLOAD_DATE" = "Yükleme tarihini gösterir";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "FYP'de video yükleme zamanını göster";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Spor videoları altında uyarıları gizle (UFC, Boks, vb...)";
+"FEATURE_REMOVE_PENDANT" = "FYP'de sol üstteki reklam görünümünü kaldır";
+"FEATURE_CONFIRM_LIKE" = "Videoyu likelamak için onay gösterir";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Yorumu likelamak için onay gösterir";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Yorumu dislikelamak için onay gösterir";
+"FEATURE_CONFIRM_FOLLOW" = "Kullanıcıyı takip etmek için onay gösterir";
+"FEATURE_AUTO_CLEAR" = "Arama geçmişini her 60 saniyede otomatik temizler";
+"FEATURE_FAKE_CHANGES" = "Profil veri sahtekarlığını etkinleştirir";
+"FEATURE_FOLLOWER_COUNT" = "Sahte takipçi sayısını gir";
+"FEATURE_FOLLOWING_COUNT" = "Sahte takip edilen sayısını gir";
+"FEATURE_FAKE_VERIFIED" = "Sahte doğrulama rozetini gösterir";
+"FEATURE_HIDE_PLUS_BTN" = "Kamera düğmesini gizle";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Arkadaş bildirim rozetini gizle";
+"FEATURE_HIDE_INBOX_BADGE" = "Gelen kutusu bildirim rozetini gizle";
+"FEATURE_EXTENDED_COMMENTS" = "Yorum karakter limitini genişletir";
+"FEATURE_UPLOAD_HD" = "HD yüklemeleri etkinleştirir";
+"FEATURE_APP_LOCK" = "TikTok'u şifre ile kilitleme yeteneği ekler";
+"FEATURE_ENABLE_FLEX" = "Yalnızca geliştiriciler için, ne yaptığınızı bilmiyorsanız DOKUNMAYIN";
+"FEATURE_OLED_KEYBOARD" = "Yalnızca koyu tema ile çalışır";
+"FEATURE_POST_STATS" = "İndirme bölümünde gönderi istatistikleri için menü düğmesi göster";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Yeniden gönderilere metin eklemeyi etkinleştir";
+"FEATURE_VOICE_MESSAGES" = "Chatte sesli mesaj göndermeyi etkinleştir";
+"FEATURE_ENABLE_STREAKS" = "Arkadaşlarla serileri etkinleştir";
+"FEATURE_HIDE_STREAK_PET" = "Seri evcil hayvanını gizle";
+"FEATURE_DISABLE_TYPING" = "Chat ederken yazma göstergesi gönderme";
+"FEATURE_PIN_CHATS" = "Favori chatleri en üste sabitle";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Chatte medya limitini atla (Varsayılan: 9 Fotoğraf, 1 Dakika Video)";
+"FEATURE_DISABLE_AI_REPLIES" = "Gönderilen gönderilere AI üretilmiş yanıtları devre dışı bırak";
+"FEATURE_SMALL_EMOJI" = "Küçük emoji göndermeyi etkinleştir";
+"FEATURE_REMOVE_PENDANT" = "Ekranın sol üst köşesindeki rahatsız edici reklam görünümünü kaldır (Yalnızca bazı bölgelerde)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Spor videoları altında rahatsız edici uyarıları gizle";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "FYP'de kullanıcı adının yanında yükleme zamanını göster";
+"FEATURE_HIDE_COMMISSION_POSTS" = "'Yaratıcı Komisyon Kazanır' diyen gönderileri kaldır";
+
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "Yorumlara fotoğraf eklemeyi izin ver";
+"ENABLE_COMMENT_STICKERS" = "Yorumlara etiket eklemeyi izin ver";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Yorumlarda ipuçlarını devre dışı bırak";
+"FEATURE_ADD_TRANSLATION" = "Yorumlara çeviri düğmesi ekle";
+"FEATURE_ADD_COMMENT_POST" = "Yorumları gönderi olarak yayınlamayı etkinleştir";
+"FEATURE_ADD_COMMENT_STORY" = "Yorumları story olarak yayınlamayı etkinleştir";
+"FEATURE_MASS_UNFOLD" = "Tüm yorum yanıtlarını toplu aç";
+"FEATURE_AUTO_UNFOLD" = "Yorum metinlerini otomatik aç";
+"FEATURE_MULTI_EMOJI" = "Çoklu emoji yorum çubuğunu etkinleştir";
+"FEATURE_HIDE_EMOJI" = "Yorumlarda emoji çubuğunu gizle";
+"FEATURE_COMMENT_REDESIGN" = "Yeniden dizayn edilmiş yorum hücrelerini etkinleştir";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Yorumları 'Kullanıcı Adı: ' Olmadan Kopyala";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Yorumcunun bölge bayrağını göster";
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "Müzik Kopyalanamadı";
+"The video doesn't have music to download" = "Bu videoda indirilecek müzik yok";
+
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "En son güncellemeler için Telegram kanalına katıl";
+"DEVELOPER_SUPPORT" = "RXTikTok'u destekle ve beta test grubuna erişim kazan";
+
+// MARK: - Missing Strings
+"Features list" = "Özellikler listesi";
+"Not Selected" = "Seçilmedi";
+"OK" = "Tamam";
+"Disable Left & Right Swipe" = "Sol ve Sağ Kaydırmayı Devre Dışı Bırak";
+"Pull To Camera" = "Kameraya Çek";
+"Regions" = "Bölgeler";
+"Full Region Mode" = "Tam Bölge Modu";
+"Add Folders To Inbox" = "Gelen Kutusuna Klasör Ekle";
+
+// Additional missing strings
+"Settings" = "Ayarlar";
+"Save" = "Kaydet";
+"Delete" = "Sil";
+"Edit" = "Editle";
+"Close" = "Kapat";
+"Back" = "Geri";
+"Next" = "İleri";
+"Done" = "Bitti";
+"Error" = "Göte geldik!";
+"Success" = "Başarı";
+"Warning" = "Uyarı";
+"Loading" = "Yükleniyor";
+"Search" = "Ara";
+"Apply" = "Uygula";
+"Reset" = "Sıfırla";
+"Saved!" = "Kaydedildi!";
+"Video saved successfully" = "Video başarıyla kaydedildi";
+"Photo saved successfully" = "Fotoğraf başarıyla kaydedildi";
+"Failed to save media" = "Medya kaydedilemedi";
+"No internet connection" = "İnternet bağlantısı yok amuna goyum";
+"Select All" = "Tümünü Seç";
+"Deselect All" = "Tüm Seçimi Kaldır";
+"More Options" = "Daha Fazla Seçenek";
+"Share" = "Paylaş";
+"Copy Link" = "Linki Kopyala";
+"Report" = "Rapor Et";
+"Block" = "Blokla";
+"Unfollow" = "Takibi Bırak";
+"Hide" = "Gizle";
+"Show" = "Göster";
+"Enable" = "Etkinleştir";
+"Disable" = "Devre Dışı Bırak";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_DISABLE_SWIPE" = "Akışta sol ve sağ kaydırmayı devre dışı bırak";
+"FEATURE_PULL_TO_CAMERA" = "Kameraya çekme özelliğini etkinleştir";
+"FEATURE_ADD_FOLDERS" = "Gelen kutusu mesajlarına klasör organizasyonu ekle";
+"FEATURE_FULL_REGION_MODE" = "İlk seçenek çalışmıyorsa yalnızca etkinleştir!!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Chatleri gönderene okundu bilgisi göndermeden görüntüle";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Deneysel özellikler dahil tüm gizli ayar sekmelerini göster";
+"FEATURE_PROFILE_SAVE_DESC" = "Profil bilgisini tek dokunuşla panoya kaydet";
+"FEATURE_PROFILE_COPY_DESC" = "Kullanıcı adı, biyo ve diğer genel bilgileri dahil profil detaylarını kopyala";
+"FEATURE_APP_LOCK_DESC" = "TikTok aplikasyonu şifre veya biyometrik kimlik doğrulamayla güvence altına al";
+"FEATURE_REGIONS_DESC" = "Sanal konumunu değiştirerek bölgeye özgü içeriğe eriş";
+"FEATURE_ADD_FOLDERS_DESC" = "Daha iyi yönetim için gelen kutusu mesajlarını özel klasörlere organize et";
+
+// MARK: - Credits View
+"Credits" = "Katkıda Bulunanlar";
+"Special Thanks to" = "Özel Teşekkürler";
+"Community" = "Topluluk";
+"Main Developer, Owner" = "Ana Geliştirici, Sahip";
+"Co-Owner" = "Ortak Sahip";
+"DRM Developer" = "DRM Geliştirici";
+"Contributor" = "Katkıda Bulunan";
+"UI Designer" = "UI Dizayncısı";
+"Telegram Channel" = "Telegram Kanalı";
+"Telegram Discussion Group" = "Telegram Tartışma Grubu";
+"Get the latest updates and news" = "En son güncellemeleri ve haberleri al";
+"Join the community discussion" = "Topluluk tartışmasına katıl";
+"Buy Me a Coffee" = "Bana Kahve Ismarla";
+"Support the development" = "Gelişimi destekle";
+"X" = "X";
+"Support" = "Destek";
+// MARK: - Configuration
+"About" = "Hakkında";
+"Configuration" = "Konfigürasyon";
+"Import Configuration" = "Konfigürasyonu İçe Aktar";
+"Export Configuration" = "Konfigürasyonu Dışa Aktar";
+"Reset All Settings" = "Tüm Ayarları Sıfırla";
+"Import settings from a file" = "Ayarları dosyadan içe aktar";
+"Export settings to a file" = "Ayarları dosyaya dışa aktar";
+"Reset all settings to default values" = "Tüm ayarları varsayılan değerlere sıfırla";
+"All settings have been reset to default values." = "Tüm ayarlar varsayılan değerlere sıfırlandı.";
+"Configuration imported successfully." = "Konfigürasyon başarıyla içe aktarıldı.";
+"File selection was cancelled." = "Dosya seçimi iptal edildi.";
+"Cancelled" = "İptal Edildi";
+
+"Select App Language" = "Aplikasyon Dilini Seç";
+
+
+// 1.3 
+"Erase All TikTok Data" = "Tüm TikTok Verilerini Sil";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Aplikasyondan tüm TikTok verilerini sil [Dikkatli ol!!!]";
+"Clear Keychain" = "Anahtar Zincirini Temizle";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Tüm verileri temizlemek istediğine emin misin? Bu şu verileri kaldıracak:\n1- TikTok veri dizini\n2- tüm anahtar zincirleri\n3- tüm NSUserDefaults'ı temizler\n\nUYARI!\nTASLAKLARINI VE YERELDE KAYDEDİLEN HER ŞEYİ KAYBEDECEKSİN.";
+"Clear" = "Temizle";
+"Really Clear All Data?" = "Tüm Verileri Gerçekten Temizle?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Bu son uyarın. Bu aksiyon geri döndürülemez ve taslaklar ve ayarlar dahil tüm yerel TikTok verilerini silecek. Kesinlikle emin misin?";
+"Confirm Clear" = "Temizlemeyi Onayla";
+"Data Cleared" = "Veriler Temizlendi";
+"All TikTok data has been cleared." = "Tüm TikTok verileri temizlendi.";
+
+"Streak Info" = "Seri Bilgisi";
+"FEATURE_STREAK_INFO" = "Seri ateşine dokunulduğunda seri bilgisini göster";
+
+"Hide Tab Bar Labels" = "Sekme Çubuğu Etiketlerini Gizle";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Daha temiz bir görünüm için sekme çubuğundaki etiketleri gizle";
+
+"Adjust offline download limit" = "Çevrimdışı İndirme Limitini Ayarla";
+"Adjust value between 50 and 2000" = "Değeri 50 ile 2000 arasında ayarla";
+
+"Start TikTok in Following" = "TikTok'u Takip Edilenlerde Başlat";
+"FEATURE_START_FYP_IN_FOLLOWING" = "TikTok'u Sizin İçin akışı yerine Takip Edilenler akışında başlat";
+
+"Waiting for TikTok…" = "TikTok Bekleniyor…";
+"Extracting Media URL…" = "Medya URL'si Çıkarılıyor…";
+"Invalid download URL received." = "Geçersiz indirme URL'si alındı.";
+"Failed to fetch HD video URL. Please try again." = "HD video URL'si alınamadı. Lütfen tekrar dene.";
+
+"Enable Egypt Stickers" = "Mısır Etiketlerini Etkinleştir";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Story Videolarını Döngüye Al";
+"STOP_STORY_PHOTO_ADVANCE" = "Story Fotoğrafı Otomatik İlerletme";
+"FEATURE_LOOP_STORY_VIDEOS" = "Etkinleştirildiğinde storylerde videoları döngüye alır";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Etkinleştirildiğinde story fotoğrafı otomatik ilerletmeyi durdurur";
+"BACKGROUND_PLAY" = "Arka Plan Oynatmayı Etkinleştir";
+"FEATURE_BACKGROUND_PLAY" = "Arka Plan Oynatmayı Etkinleştir";
+
+// MARK: - New Section Headers (Added from Settings reorganization)
+"Content & Display" = "İçerik & Ekran";
+"Playback Controls" = "Oynatma Kontrolleri";
+"Content Filtering" = "İçerik Filtreleme";
+"Navigation & Interaction" = "Gezinme & Etkileşim";
+"Downloads & Sharing" = "İndirmeler & Paylaşım";
+"Profile Actions" = "Profil Aksiyonları";
+"Video Information" = "Video Bilgisi";
+"Profile Customization" = "Profil Özelleştirme";
+"Profile Enhancement" = "Profil Geliştirme";
+"Enhanced Comments Features" = "Geliştirilmiş Yorum Özellikleri";
+"Text & Display Options" = "Metin & Ekran Seçenekleri";
+"Emoji & Interface" = "Emoji & Arayüz";
+"Content Interactions" = "İçerik Etkileşimleri";
+"Social Actions" = "Sosyal Aksiyonlar";
+"Tab Bar Elements" = "Sekme Çubuğu Elemanları";
+"Notification Badges" = "Bildirim Rozetleri";
+"App Configuration" = "Aplikasyon Konfigürasyonu";
+"Content Enhancement" = "İçerik Geliştirme";
+"System Features" = "Sistem Özellikleri";
+"Configuration Management" = "Konfigürasyon Yönetimi";
+"Chat Features" = "Chat Özellikleri";
+"Organization & Management" = "Organizasyon & Yönetim";
+"Privacy & Security" = "Gizlilik & Güvenlik";
+
+// MARK: - Missing Chat Settings Strings
+"DISBALE_SCREENSHOT_DETECTION" = "Ekran Görüntüsü Algılamayı Devre Dışı Bırak";
+"DISABLE_SCREENRECORDING_DETECTION" = "Ekran Kaydı Algılamayı Devre Dışı Bırak";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Chatlerde ekran görüntüsü algılamayı devre dışı bırak";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Chatlerde ekran kaydı algılamayı devre dışı bırak";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Ayarları Sıfırla";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Tüm ayarları varsayılan değerlere sıfırlamak istediğine emin misin? Bu aksiyon geri alınamaz.";
+"Erase All Data" = "Tüm Verileri Sil";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Tüm TikTok verilerini silmek istediğine emin misin? Bu tüm aplikasyon verilerini temizler ve geri alınamaz.";
+"Erase" = "Sil";
+"All TikTok data has been erased." = "Tüm TikTok verileri silindi.";
+"Settings Reset" = "Ayarlar Sıfırlandı";
+"Language Changed" = "Dil Değiştirildi";
+"Please restart the app to apply changes, May require two app restarts!" = "Değişiklikleri uygulamak için aplikasyonu yeniden başlat, İki kez yeniden başlatma gerekebilir!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Hızlar";
+"Live Actions" = "Canlı Aksiyonlar";
+"RXTikTok Settings" = "RXTikTok Ayarları";
+
+"BETA!" = "BETA!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Dil";
+
+"MARK_SEEN_ON_REPLY" = "Yanıtla İşaretle Görüldü";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Yanıt verirken mesajları görüldü olarak işaretle";
+
+"VIEW_PROFILES_ANONYMOUS" = "Profilleri Anonim Görüntüle";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Etkinleştirildiğinde Profil Görüntüleme Takibini Devre Dışı Bırak";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "İçe aktarma kaynağını seç:";
+"Import from Keychain" = "Anahtar Zincirinden İçe Aktar";
+"Import from File" = "Dosyadan İçe Aktar";
+"No backup found" = "Yedek bulunamadı";
+"No Backup" = "Yedek Yok";
+"No settings backup found in keychain." = "Anahtar zincirinde ayar yedeği bulunamadı.";
+"Choose export destination:" = "Dışa aktarma hedefini seç:";
+"Save to Keychain" = "Anahtar Zincirine Kaydet";
+"Export to File" = "Dosyaya Dışa Aktar";
+"Configuration imported from keychain successfully." = "Konfigürasyon anahtar zincirinden başarıyla içe aktarıldı.";
+"Configuration saved to keychain successfully." = "Konfigürasyon anahtar zincirine başarıyla kaydedildi.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "TikTok Ödül Reklamlarını Devre Dışı Bırak";
+"FEATURE_DISABLE_REWARDS_ADS" = "Akıştan TikTok Ödül reklamlarını gizle";
